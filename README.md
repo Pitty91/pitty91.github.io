@@ -1,2 +1,3 @@
 # pitty91.github.io
-My Intro
+My Introduction and skills set 
+You can visit https://pitty91.github.io/
